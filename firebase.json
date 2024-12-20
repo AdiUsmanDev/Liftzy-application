@@ -1,0 +1,12 @@
+{
+  "firestore": {
+    "rules": "true",
+    "indexes": "true"
+  },
+  "storage": {
+    "rules": "true"
+  },
+  "database": {
+    "rules": "yes"
+  }
+}
