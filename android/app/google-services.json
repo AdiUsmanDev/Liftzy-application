@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "20173192546",
+    "firebase_url": "https://liftzy-faceyoga-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "liftzy-faceyoga",
+    "storage_bucket": "liftzy-faceyoga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20173192546:android:03b7f3b22706a316e1803b",
+        "android_client_info": {
+          "package_name": "com.example.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGt9IvPsCW75bpeYbjIg_-UBgqaVwsBo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
